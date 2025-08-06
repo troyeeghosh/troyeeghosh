@@ -69,7 +69,7 @@
 ## 🌐 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Troyee_Ghosh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/troyeeg/)  
-📧 troyeeg@gmail.com  
+📧 troyeeghosh99@gmail.com  
 📍 Dhaka, Bangladesh
 
 ---
